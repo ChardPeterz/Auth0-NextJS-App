@@ -6,5 +6,6 @@
 <h2> Run instructions </h2>
 
 - `npm i`
+- `npm run build`
 - `npm run dev`
 - server running on localhost:3000
