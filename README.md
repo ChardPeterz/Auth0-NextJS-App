@@ -1,9 +1,5 @@
-<h1> Points to improve </h1>
 
-- [ ] *Unable to create docker container*
-- [ ] *Front-end design needed .... nextjs-01-login/sample-01/components/Hero*
-
-<h2> Run instructions </h2>
+<h1> Run instructions </h1>
 
 - `npm i`
 - `npm run dev`

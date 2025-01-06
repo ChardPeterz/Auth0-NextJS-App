@@ -1,0 +1,40 @@
+{
+  "name": "react-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@emotion/react": "11.11.4",
+    "@emotion/styled": "11.11.5",
+    "@mui/icons-material": "5.16.7",
+    "@mui/material": "5.16.7",
+    "prop-types": "^15.8.1",
+    "react-router-dom": "^6.8.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.15.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.14",
+    "globals": "^15.12.0",
+    "vite": "^6.0.1",
+    "@babel/core": "^7.21.4",
+    "htmlnano": "2.0.3",
+    "parcel": ">=2.8.0 <2.13.0",
+    "parcel-reporter-static-files-copy": "^1.5.0",
+    "postcss": "^8.4.27",
+    "process": "^0.11.10"
+  }
+}
